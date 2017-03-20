@@ -1,3 +1,6 @@
 test created this file directly on githumb
 
+
 added conflict on local branch
+added a potentially conflicting line
+
